@@ -1,8 +1,5 @@
 # Main Purposes and Characteristics of Apache Druid
 
-## Overview
-Apache Druid is a high-performance real-time analytics database designed to address the needs of large-scale data analysis with low-latency query responses. Its robust architecture supports a wide range of data-intensive use cases, making it a preferred choice for businesses requiring fast and reliable insights from their datasets. Druid’s ability to combine real-time and batch data processing further enhances its utility in modern data workflows.
-
 ## Key Purposes
 
 ### 1. **Interactive Querying**
